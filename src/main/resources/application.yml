@@ -1,6 +1,0 @@
-spring:
-  data:
-    mongodb:
-      uri: mongodb+srv://lfcomarroquin:<password>@cluster0.fjhsghj.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-      username: lfcomarroquin
-      password: <password>
